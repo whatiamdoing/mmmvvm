@@ -1,2 +1,7 @@
+include ':commons:entities'
+include ':commons:repositories'
+include ':commons:global'
+include ':commons:resources'
+include ':commons:lists'
 include ':app'
 rootProject.name = "Mmmvvm"
