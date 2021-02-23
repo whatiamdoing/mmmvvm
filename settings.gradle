@@ -1,3 +1,4 @@
+include ':screens:mainscreen'
 include ':commons:entities'
 include ':commons:repositories'
 include ':commons:global'
